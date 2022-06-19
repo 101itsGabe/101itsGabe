@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @101itsGabe
 - 👀 I’m interested in making anything just want to learn
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ANYTHING
+- 💪🏾 I’m looking to collaborate on ANYTHING
 - 📫 How to reach me manngabe@gmail.com
 
 <!---
